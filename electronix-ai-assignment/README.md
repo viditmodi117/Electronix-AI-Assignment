@@ -142,3 +142,7 @@ curl -X POST http://127.0.0.1:8001/predict -H "Content-Type: application/json" -
 - **Environment**: Tested on Windows with Python 3.11 in a clean virtual environment (`electronix-ai-venv`).
 - **Paths**: Replace `<repository-url>` with your GitHub repository URL in the setup instructions.
 - **Submission**: Includes GitHub repository link, unlisted YouTube video (demonstrating fine-tuning, API, and testing), and local API testing note.
+
+
+## YouTube Video LINK
+-**https://youtu.be/MFEhm-r2WEI
